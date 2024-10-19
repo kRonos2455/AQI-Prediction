@@ -50,3 +50,4 @@ And the following page shows up on clicking the `Predict` button.<br>
     <img src = "IMAGES/img3.png" width="50%">
 </div>
 
+**#NOTE**: Further, improvement from the model can be obtained by using actual `AQI` data from [Central Control Room for Air Quality Management - All India](https://airquality.cpcb.gov.in/ccr/#/caaqm-dashboard-all/caaqm-landing/aqi-repository)

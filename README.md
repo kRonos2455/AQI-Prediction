@@ -41,12 +41,12 @@ All models are created and evaluated in the `MODEL.ipynb` file.<br><br>
 Finally, the model is presented using `Flask` library under the `app.py` python file which uses the html templates under `templates` folder and the styling is done using `css` under the  `static` folder.
 The user can provide the inputs as follows - 
 <div align="center">
-    <img src = "Images/img2.png" width="50%"><br>
+    <img src = "IMAGES/img2.png" width="50%"><br>
 </div>
 
 And the following page shows up on clicking the `Predict` button.<br>
 
 <div align="center">
-    <img src = "Images/img3.png" width="50%">
+    <img src = "IMAGES/img3.png" width="50%">
 </div>
 

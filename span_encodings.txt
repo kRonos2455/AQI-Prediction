@@ -1,0 +1,811 @@
+SPAN CLASS               
+2018 January (1)
+'nttu':'2',
+'ntlm':'1',
+'ntyc':'.',
+'nthj':'6',
+'ntfs':'7',
+'ntzb':'5',
+'ntas':'8',
+'nttn':'9',
+'ntbb':'4',
+'ntcd':'3',
+'ntde':'0',
+'ntio':'-',
+'&nbsp':" "
+
+2018 Feb (1)
+'ntrs': '2',
+'ntza': '3',
+'ntvr': '.',
+'ntbc': '0',
+'ntqr': '8', 
+'ntjk': '1', 
+'ntzz': '-', 
+'ntgy': '6', 
+'ntbz': '5', 
+'ntox': '7', 
+'ntnt': '9', 
+'ntaa': '4'
+
+2018 March (1)
+'nttu':'2',
+'ntlm':'1',
+'ntyc':'.',
+'nthj':'6',
+'ntfs':'7',
+'ntzb':'5',
+'ntas':'8',
+'nttn':'9',
+'ntbb':'4',
+'ntcd':'3',
+'ntde':'0',
+'ntio':'-',
+'&nbsp':" "
+
+2018 April (3)
+'ntpq': '2', 
+'ntxo': '7', 
+'ntux': '.', 
+'ntgg': '4', 
+'ntxy': '3', 
+'nthi': '1',
+'ntre': '8', 
+'ntyy': '6', 
+'ntll': '9', 
+'ntaz': '5',
+'ntab': '0', 
+'ntkf': '-'
+
+2018 May (2)
+'ntrs': '2',
+'ntza': '3',
+'ntvr': '.',
+'ntbc': '0',
+'ntqr': '8', 
+'ntjk': '1', 
+'ntzz': '-', 
+'ntgy': '6', 
+'ntbz': '5', 
+'ntox': '7', 
+'ntnt': '9', 
+'ntaa': '4'
+
+2018 June (2)
+'ntrs': '2',
+'ntza': '3',
+'ntvr': '.',
+'ntbc': '0',
+'ntqr': '8', 
+'ntjk': '1', 
+'ntzz': '-', 
+'ntgy': '6', 
+'ntbz': '5', 
+'ntox': '7', 
+'ntnt': '9', 
+'ntaa': '4'
+
+2018 July (2)
+'ntrs': '2',
+'ntza': '3',
+'ntvr': '.',
+'ntbc': '0',
+'ntqr': '8', 
+'ntjk': '1', 
+'ntzz': '-', 
+'ntgy': '6', 
+'ntbz': '5', 
+'ntox': '7', 
+'ntnt': '9', 
+'ntaa': '4'
+
+2018 August (3)
+'ntpq': '2', 
+'ntxo': '7', 
+'ntux': '.', 
+'ntgg': '4', 
+'ntxy': '3', 
+'nthi': '1',
+'ntre': '8', 
+'ntyy': '6', 
+'ntll': '9', 
+'ntaz': '5',
+'ntab': '0', 
+'ntkf': '-'
+
+2018 September (1)
+'nttu':'2',
+'ntlm':'1',
+'ntyc':'.',
+'nthj':'6',
+'ntfs':'7',
+'ntzb':'5',
+'ntas':'8',
+'nttn':'9',
+'ntbb':'4',
+'ntcd':'3',
+'ntde':'0',
+'ntio':'-',
+'&nbsp':" "
+
+2018 October (2)
+'ntrs': '2',
+'ntza': '3',
+'ntvr': '.',
+'ntbc': '0',
+'ntqr': '8', 
+'ntjk': '1', 
+'ntzz': '-', 
+'ntgy': '6', 
+'ntbz': '5', 
+'ntox': '7', 
+'ntnt': '9', 
+'ntaa': '4'
+
+2018 November (2)
+'ntrs': '2',
+'ntza': '3',
+'ntvr': '.',
+'ntbc': '0',
+'ntqr': '8', 
+'ntjk': '1', 
+'ntzz': '-', 
+'ntgy': '6', 
+'ntbz': '5', 
+'ntox': '7', 
+'ntnt': '9', 
+'ntaa': '4'
+
+2018 December (1)
+'nttu':'2',
+'ntlm':'1',
+'ntyc':'.',
+'nthj':'6',
+'ntfs':'7',
+'ntzb':'5',
+'ntas':'8',
+'nttn':'9',
+'ntbb':'4',
+'ntcd':'3',
+'ntde':'0',
+'ntio':'-',
+'&nbsp':" "
+
+
+2018
+(1) - Jan(1), March(3), Dec(12)
+(2) - Feb(2), May(5), June(6), July(7), Oct(10), Nov(11)
+(3) - Apr(3), Aug(8)
+
+2019 January (1)
+'nttu':'2',
+'ntlm':'1',
+'ntyc':'.',
+'nthj':'6',
+'ntfs':'7',
+'ntzb':'5',
+'ntas':'8',
+'nttn':'9',
+'ntbb':'4',
+'ntcd':'3',
+'ntde':'0',
+'ntio':'-',
+'&nbsp':" "
+
+2019 February (2)
+'ntrs': '2',
+'ntza': '3',
+'ntvr': '.',
+'ntbc': '0',
+'ntqr': '8', 
+'ntjk': '1', 
+'ntzz': '-', 
+'ntgy': '6', 
+'ntbz': '5', 
+'ntox': '7', 
+'ntnt': '9', 
+'ntaa': '4'
+
+2019 March (4)
+'ntvw': '2', 
+'ntef': '3', 
+'ntkk': '.', 
+'ntno': '1', 
+'ntjj': '-', 
+'ntdr': '6', 
+'nthy': '8', 
+'ntpo': '7', 
+'ntjg': '9', 
+'ntgo': '5', 
+'ntee': '4', 
+'ntfg': '0'
+
+2019 April (2)
+'ntrs': '2',
+'ntza': '3',
+'ntvr': '.',
+'ntbc': '0',
+'ntqr': '8', 
+'ntjk': '1', 
+'ntzz': '-', 
+'ntgy': '6', 
+'ntbz': '5', 
+'ntox': '7', 
+'ntnt': '9', 
+'ntaa': '4'
+
+2019 May (2)
+'ntrs': '2',
+'ntza': '3',
+'ntvr': '.',
+'ntbc': '0',
+'ntqr': '8', 
+'ntjk': '1', 
+'ntzz': '-', 
+'ntgy': '6', 
+'ntbz': '5', 
+'ntox': '7', 
+'ntnt': '9', 
+'ntaa': '4'
+
+2019 June (4)
+'ntvw': '2', 
+'ntef': '3', 
+'ntkk': '.', 
+'ntno': '1', 
+'ntjj': '-', 
+'ntdr': '6', 
+'nthy': '8', 
+'ntpo': '7', 
+'ntjg': '9', 
+'ntgo': '5', 
+'ntee': '4', 
+'ntfg': '0'
+
+2019 July (3)
+'ntpq': '2', 
+'ntxo': '7', 
+'ntux': '.', 
+'ntgg': '4', 
+'ntxy': '3', 
+'nthi': '1',
+'ntre': '8', 
+'ntyy': '6', 
+'ntll': '9', 
+'ntaz': '5',
+'ntab': '0', 
+'ntkf': '-'
+
+2019 August (1)
+'nttu':'2',
+'ntlm':'1',
+'ntyc':'.',
+'nthj':'6',
+'ntfs':'7',
+'ntzb':'5',
+'ntas':'8',
+'nttn':'9',
+'ntbb':'4',
+'ntcd':'3',
+'ntde':'0',
+'ntio':'-',
+'&nbsp':" "
+
+2019 September (1)
+'nttu':'2',
+'ntlm':'1',
+'ntyc':'.',
+'nthj':'6',
+'ntfs':'7',
+'ntzb':'5',
+'ntas':'8',
+'nttn':'9',
+'ntbb':'4',
+'ntcd':'3',
+'ntde':'0',
+'ntio':'-',
+'&nbsp':" "
+
+2019 October (3)
+'ntpq': '2', 
+'ntxo': '7', 
+'ntux': '.', 
+'ntgg': '4', 
+'ntxy': '3', 
+'nthi': '1',
+'ntre': '8', 
+'ntyy': '6', 
+'ntll': '9', 
+'ntaz': '5',
+'ntab': '0', 
+'ntkf': '-'
+
+2019 November (4)
+'ntvw': '2', 
+'ntef': '3', 
+'ntkk': '.', 
+'ntno': '1', 
+'ntjj': '-', 
+'ntdr': '6', 
+'nthy': '8', 
+'ntpo': '7', 
+'ntjg': '9', 
+'ntgo': '5', 
+'ntee': '4', 
+'ntfg': '0'
+
+2019 December (2)
+'ntrs': '2',
+'ntza': '3',
+'ntvr': '.',
+'ntbc': '0',
+'ntqr': '8', 
+'ntjk': '1', 
+'ntzz': '-', 
+'ntgy': '6', 
+'ntbz': '5', 
+'ntox': '7', 
+'ntnt': '9', 
+'ntaa': '4'
+
+2019
+(1) - Jan(1), Aug(8), Sept(9)
+(2) - Feb(2), Apr(4), May(5), Dec(12)
+(3) - Oct(10), July(7)
+(4) - Mar(3), June(6), Nov(11)
+
+2020 January (1) 
+'nttu':'2',
+'ntlm':'1',
+'ntyc':'.',
+'nthj':'6',
+'ntfs':'7',
+'ntzb':'5',
+'ntas':'8',
+'nttn':'9',
+'ntbb':'4',
+'ntcd':'3',
+'ntde':'0',
+'ntio':'-',
+'&nbsp':" "
+
+2020 February (3)
+'ntpq': '2', 
+'ntxo': '7', 
+'ntux': '.', 
+'ntgg': '4', 
+'ntxy': '3', 
+'nthi': '1',
+'ntre': '8', 
+'ntyy': '6', 
+'ntll': '9', 
+'ntaz': '5',
+'ntab': '0', 
+'ntkf': '-'
+
+2020 March (2)
+'ntrs': '2',
+'ntza': '3',
+'ntvr': '.',
+'ntbc': '0',
+'ntqr': '8', 
+'ntjk': '1', 
+'ntzz': '-', 
+'ntgy': '6', 
+'ntbz': '5', 
+'ntox': '7', 
+'ntnt': '9', 
+'ntaa': '4'
+
+2020 April (1)
+'nttu':'2',
+'ntlm':'1',
+'ntyc':'.',
+'nthj':'6',
+'ntfs':'7',
+'ntzb':'5',
+'ntas':'8',
+'nttn':'9',
+'ntbb':'4',
+'ntcd':'3',
+'ntde':'0',
+'ntio':'-',
+'&nbsp':" "
+
+2020 May (2)
+'ntrs': '2',
+'ntza': '3',
+'ntvr': '.',
+'ntbc': '0',
+'ntqr': '8', 
+'ntjk': '1', 
+'ntzz': '-', 
+'ntgy': '6', 
+'ntbz': '5', 
+'ntox': '7', 
+'ntnt': '9', 
+'ntaa': '4'
+
+2020 June (1)
+'nttu':'2',
+'ntlm':'1',
+'ntyc':'.',
+'nthj':'6',
+'ntfs':'7',
+'ntzb':'5',
+'ntas':'8',
+'nttn':'9',
+'ntbb':'4',
+'ntcd':'3',
+'ntde':'0',
+'ntio':'-',
+'&nbsp':" "
+
+2020 July (1)
+'nttu':'2',
+'ntlm':'1',
+'ntyc':'.',
+'nthj':'6',
+'ntfs':'7',
+'ntzb':'5',
+'ntas':'8',
+'nttn':'9',
+'ntbb':'4',
+'ntcd':'3',
+'ntde':'0',
+'ntio':'-',
+'&nbsp':" "
+
+2020 August (4)
+'ntvw': '2', 
+'ntef': '3', 
+'ntkk': '.', 
+'ntno': '1', 
+'ntjj': '-', 
+'ntdr': '6', 
+'nthy': '8', 
+'ntpo': '7', 
+'ntjg': '9', 
+'ntgo': '5', 
+'ntee': '4', 
+'ntfg': '0'
+
+2020 September (1)
+'nttu':'2',
+'ntlm':'1',
+'ntyc':'.',
+'nthj':'6',
+'ntfs':'7',
+'ntzb':'5',
+'ntas':'8',
+'nttn':'9',
+'ntbb':'4',
+'ntcd':'3',
+'ntde':'0',
+'ntio':'-',
+'&nbsp':" "
+
+2020 October (1)
+'nttu':'2',
+'ntlm':'1',
+'ntyc':'.',
+'nthj':'6',
+'ntfs':'7',
+'ntzb':'5',
+'ntas':'8',
+'nttn':'9',
+'ntbb':'4',
+'ntcd':'3',
+'ntde':'0',
+'ntio':'-',
+'&nbsp':" "
+
+2020 November (4)
+'ntvw': '2', 
+'ntef': '3', 
+'ntkk': '.', 
+'ntno': '1', 
+'ntjj': '-', 
+'ntdr': '6', 
+'nthy': '8', 
+'ntpo': '7', 
+'ntjg': '9', 
+'ntgo': '5', 
+'ntee': '4', 
+'ntfg': '0'
+
+2020 December (4)
+'ntvw': '2', 
+'ntef': '3', 
+'ntkk': '.', 
+'ntno': '1', 
+'ntjj': '-', 
+'ntdr': '6', 
+'nthy': '8', 
+'ntpo': '7', 
+'ntjg': '9', 
+'ntgo': '5', 
+'ntee': '4', 
+'ntfg': '0'
+
+2020
+(1) - Jan(1), Apr(4), Jun(6), July(7), Sept(9), Oct(10)
+(2) - Mar(3), May(5)
+(3) - Feb(2)
+(4) - Aug(8), Nov(11), Dec(12)
+
+2021 January (2)
+'ntrs': '2',
+'ntza': '3',
+'ntvr': '.',
+'ntbc': '0',
+'ntqr': '8', 
+'ntjk': '1', 
+'ntzz': '-', 
+'ntgy': '6', 
+'ntbz': '5', 
+'ntox': '7', 
+'ntnt': '9', 
+'ntaa': '4'
+
+2021 February (1)
+'nttu':'2',
+'ntlm':'1',
+'ntyc':'.',
+'nthj':'6',
+'ntfs':'7',
+'ntzb':'5',
+'ntas':'8',
+'nttn':'9',
+'ntbb':'4',
+'ntcd':'3',
+'ntde':'0',
+'ntio':'-',
+'&nbsp':" "
+
+2021 March (2)
+'ntrs': '2',
+'ntza': '3',
+'ntvr': '.',
+'ntbc': '0',
+'ntqr': '8', 
+'ntjk': '1', 
+'ntzz': '-', 
+'ntgy': '6', 
+'ntbz': '5', 
+'ntox': '7', 
+'ntnt': '9', 
+'ntaa': '4'
+
+2021 April (2)
+'ntrs': '2',
+'ntza': '3',
+'ntvr': '.',
+'ntbc': '0',
+'ntqr': '8', 
+'ntjk': '1', 
+'ntzz': '-', 
+'ntgy': '6', 
+'ntbz': '5', 
+'ntox': '7', 
+'ntnt': '9', 
+'ntaa': '4'
+
+2021 May (3)
+'ntpq': '2', 
+'ntxo': '7', 
+'ntux': '.', 
+'ntgg': '4', 
+'ntxy': '3', 
+'nthi': '1',
+'ntre': '8', 
+'ntyy': '6', 
+'ntll': '9', 
+'ntaz': '5',
+'ntab': '0', 
+'ntkf': '-'
+
+2021 June (2)
+'ntrs': '2',
+'ntza': '3',
+'ntvr': '.',
+'ntbc': '0',
+'ntqr': '8', 
+'ntjk': '1', 
+'ntzz': '-', 
+'ntgy': '6', 
+'ntbz': '5', 
+'ntox': '7', 
+'ntnt': '9', 
+'ntaa': '4'
+
+2021 July (1)
+'nttu':'2',
+'ntlm':'1',
+'ntyc':'.',
+'nthj':'6',
+'ntfs':'7',
+'ntzb':'5',
+'ntas':'8',
+'nttn':'9',
+'ntbb':'4',
+'ntcd':'3',
+'ntde':'0',
+'ntio':'-',
+'&nbsp':" "
+
+2021 August (1)
+'nttu':'2',
+'ntlm':'1',
+'ntyc':'.',
+'nthj':'6',
+'ntfs':'7',
+'ntzb':'5',
+'ntas':'8',
+'nttn':'9',
+'ntbb':'4',
+'ntcd':'3',
+'ntde':'0',
+'ntio':'-',
+'&nbsp':" "
+
+2021 September (2)
+'ntrs': '2',
+'ntza': '3',
+'ntvr': '.',
+'ntbc': '0',
+'ntqr': '8', 
+'ntjk': '1', 
+'ntzz': '-', 
+'ntgy': '6', 
+'ntbz': '5', 
+'ntox': '7', 
+'ntnt': '9', 
+'ntaa': '4'
+
+2021 October (2)
+'ntrs': '2',
+'ntza': '3',
+'ntvr': '.',
+'ntbc': '0',
+'ntqr': '8', 
+'ntjk': '1', 
+'ntzz': '-', 
+'ntgy': '6', 
+'ntbz': '5', 
+'ntox': '7', 
+'ntnt': '9', 
+'ntaa': '4'
+
+2021 November (2)
+'ntrs': '2',
+'ntza': '3',
+'ntvr': '.',
+'ntbc': '0',
+'ntqr': '8', 
+'ntjk': '1', 
+'ntzz': '-', 
+'ntgy': '6', 
+'ntbz': '5', 
+'ntox': '7', 
+'ntnt': '9', 
+'ntaa': '4'
+
+2021 December (1)
+'nttu':'2',
+'ntlm':'1',
+'ntyc':'.',
+'nthj':'6',
+'ntfs':'7',
+'ntzb':'5',
+'ntas':'8',
+'nttn':'9',
+'ntbb':'4',
+'ntcd':'3',
+'ntde':'0',
+'ntio':'-',
+'&nbsp':" "
+
+
+
+2018
+(1) - Jan(1), March(3), Dec(12), Feb(2)
+(2) - May(5), June(6), July(7), Oct(10), Nov(11)
+(3) - Apr(4), Aug(8)
+
+2019
+(1) - Jan(1), Aug(8), Sept(9)
+(2) - Feb(2), Apr(4), May(5), Dec(12)
+(3) - Oct(10), July(7)
+(4) - Mar(3), June(6), Nov(11)
+
+2020
+(1) - Jan(1), Apr(4), Jun(6), July(7), Sept(9), Oct(10)
+(2) - Mar(3), May(5)
+(3) - Feb(2)
+(4) - Aug(8), Nov(11), Dec(12)
+
+2021
+(1) - Feb(2), july(7), Aug(8), Dec(12)
+(2) - Jan(1), Mar(3), Apr(4), June(5), Sept(9), Oct(10), Nov(11)
+(3) - May(5)
+(4)
+
+2022 
+(1) - Jan(1), Apr(4), Nov(11)
+(2) - Feb(2), July(7), Aug(8), Sept(9)
+(3) - June(6), Oct(10), Dec(12)
+(4) - Mar(3), May(5)
+
+2023
+(1) - Apr(4),
+(2) - Mar(3), June(6)
+(3) - Aug(8), Sept(9), Oct(10)
+(4) - Jan(1), Feb(2), May(5), July(7), Nov(11), Dec(12)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

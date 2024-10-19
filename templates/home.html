@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Home </title>
+
+    <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='css/styles.css')}}">
+</head>
+<body>
+
+    <header>
+        <div class="container">
+        <div id = "brandname">
+            Machine Learning APP with Flask 
+        </div>
+        <h2> Air Quality Index Prediction</h2>
+    </div>
+    </header>
+
+    <div class="container">
+        <form action="{{url_for('predict')}}" method = "POST">
+            <p> CLICK the Predict Button</p>
+
+            <textarea name = "message" rows="6" cols="50"></textarea>
+            <br/>
+
+            <input type="submit" class="btn-info" value="predict">
+        
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction Result</title>
+    <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='css/styles.css')}}">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+
+        header {
+            background-color: #3498db;
+            color: white;
+            text-align: center;
+            padding: 2rem 0;
+            margin-bottom: 2rem;
+        }
+
+        #brandname {
+            font-size: 2rem;
+            font-weight: bold;
+            margin-bottom: 1rem;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .results {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        .results h2 {
+            color: #2c3e50;
+            margin-bottom: 2rem;
+        }
+
+        table {
+            width: 100%;
+            max-width: 600px;
+            margin: 0 auto 2rem;
+            border-collapse: collapse;
+            background: white;
+        }
+
+        th, td {
+            padding: 1rem;
+            border: 1px solid #ddd;
+            text-align: center;
+        }
+
+        th {
+            background-color: #3498db;
+            color: white;
+            font-weight: bold;
+        }
+
+        td {
+            font-size: 1.2rem;
+            color: #2c3e50;
+        }
+
+        .back-button {
+            margin-top: 2rem;
+        }
+
+        .btn-info {
+            display: inline-block;
+            padding: 1rem 2rem;
+            background-color: #3498db;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .btn-info:hover {
+            background-color: #2980b9;
+        }
+
+        /* Add animation for result display */
+        @keyframes fade-in {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .results {
+            animation: fade-in 0.5s ease-out;
+        }
+
+        /* Add a quality indicator based on AQI value */
+        .quality-indicator {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            border-radius: 5px;
+            font-weight: bold;
+            margin-top: 1rem;
+        }
+
+        .quality-good { background-color: #2ecc71; color: white; }
+        .quality-moderate { background-color: #f1c40f; color: white; }
+        .quality-poor { background-color: #e74c3c; color: white; }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div id="brandname">
+                Air Quality Prediction
+            </div>
+            <!-- <h2>Air Quality Index Prediction</h2> -->
+        </div>
+    </header>
+    
+    <div class="results">
+        <h2 style="color:blue;">Prediction Result</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Air Quality Index</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for item in prediction %}
+                    <tr><td>{{ "%.2f"|format(item) }}</td></tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        
+        <div class="back-button">
+            <a href="{{ url_for('home') }}" class="btn-info">Make Another Prediction</a>
+        </div>
+    </div>
+</body>
+</html>
